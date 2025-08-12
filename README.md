@@ -16,13 +16,13 @@ A Flutter project demonstrating live broadcasting using [Agora](https://www.agor
 ```bash
 git clone https://github.com/HijbullahMahmud/Agora-Broadcast-Flutter-.git
 cd Agora-Broadcast-Flutter-
- 
+```
 ---
 
 ### 2️⃣ Install Dependencies
 ```bash
 flutter pub get
-
+```
 
 
 ### 3️⃣ Set Up Environment Variables
@@ -34,12 +34,14 @@ Example .env.example file:
 appId=YOUR_AGORA_APP_ID
 channelName=YOUR_CHANNEL_NAME
 token=YOUR_TEMP_TOKEN
+```
 
 Steps to configure:
 1. Copy .env.example to .env:
 
 ```bash
 cp .env.example .env
+```
 
 2. Open .env and replace placeholders with your actual values from the Agora Console
 
@@ -47,7 +49,9 @@ cp .env.example .env
 After setting .env values, generate the Envied files:
 ```bash
 flutter pub run build_runner build --delete-conflicting-outputs
+```
 
-5️⃣ Run the App
+### 5️⃣ Run the App
 ```bash
 flutter run
+```
