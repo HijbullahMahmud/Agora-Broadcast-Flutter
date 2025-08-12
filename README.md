@@ -6,7 +6,7 @@ A Flutter project demonstrating live broadcasting using [Agora](https://www.agor
 
 ## 📂 Repository
 
-[GitHub Repository](https://github.com/HijbullahMahmud/Agora-Broadcast-Flutter-.git)
+[GitHub Repository](https://github.com/HijbullahMahmud/Agora-Broadcast-Flutter.git)
 
 ---
 
@@ -14,7 +14,7 @@ A Flutter project demonstrating live broadcasting using [Agora](https://www.agor
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/HijbullahMahmud/Agora-Broadcast-Flutter-.git
+git clone https://github.com/HijbullahMahmud/Agora-Broadcast-Flutter.git
 cd Agora-Broadcast-Flutter-
 ```
 ---
